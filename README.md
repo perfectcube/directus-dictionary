@@ -1,6 +1,6 @@
 # Directus Dictionary
 
-An extension providing dictionary interface for [Directus](https://github.com/directus/directus) that returns a standartd object of key/value pairs.
+An extension providing dictionary interface for [Directus](https://github.com/directus/directus) that returns a standard object of key/value pairs.
 
 ## Example setup
 
